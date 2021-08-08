@@ -2,7 +2,7 @@
 **Mikroişlemciler dersimde yaptığım sensörlü dezenfektan projesi kaynak kodları.**
 
 
-### Hello to everyone!
+### Hello everyone!
 **I am sharing the source code of a small project I made for my microprocessor lesson.**
 
 
